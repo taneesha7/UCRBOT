@@ -1,5 +1,5 @@
 # UCRBOT
-The readme will help guide you, but definitely reach out to T⁷#3533 or kurcody1#6604 first if you're interested in helping, that should make it a lot easier to get started!
+The readme will help guide you, but definitely reach out to T⁷#3533 or kurcody1#6604 on discord first if you're interested in helping, that should make it a lot easier to get started!
 
 
 ## We are creating a UCR related chatbot for tabling!
